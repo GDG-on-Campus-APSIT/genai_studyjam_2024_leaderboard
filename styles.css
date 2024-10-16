@@ -2,7 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", Arial, sans-serif;
-  background-color: #f1f1f1;
+  background-image: url("darkbg-entirepage.png");
+  background-size: cover;
 }
 
 .container {
