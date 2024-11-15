@@ -1,65 +1,5 @@
 [
   {
-    "User Name": "JISHANAHMED ABDULRAHIM SHAIKH",
-    "User Email": "jishanahmedshaikh.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/0a7d37e8-fcb0-42f2-a09e-c63b6a7f8d72",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 15,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "Yes"
-  },
-  {
-    "User Name": "Gourav Goutam Midya",
-    "User Email": "gouravmidya.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/0b061cee-a1b1-4731-b6f6-412282003612",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 15,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "Yes"
-  },
-  {
-    "User Name": "Unnati Sharadchandra Pohankar",
-    "User Email": "unnatipohankar.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a454b431-5fa9-4417-b254-894249e27a92",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 15,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "Yes"
-  },
-  {
-    "User Name": "Anuj Piyush Pokharna",
-    "User Email": "anuj28.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a47c9471-3cb5-4d64-b3f6-484c4a3bdb6d",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 15,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "Yes"
-  },
-  {
-    "User Name": "Soham Patil",
-    "User Email": "sohampatil.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1e0f92d5-7a78-429d-af63-5d47923ffdbe",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 15,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "Yes"
-  },
-  {
-    "User Name": "POOJA PRAKASH MALPEKAR",
-    "User Email": "poojamalpekar.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d264a2c5-2086-46f1-a590-60d050c3ca2c",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 15,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "Yes"
-  },
-  {
     "User Name": "Mit Nitin Jain",
     "User Email": "mitjain.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/115a9464-76be-4e47-8269-6abddba5b562",
@@ -110,6 +50,16 @@
     "Total Completion": "Yes"
   },
   {
+    "User Name": "Amit Keshav Rajegore",
+    "User Email": "amitr.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b5dccd19-17e0-41b6-819b-2eb17e4ca836",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
     "User Name": "Smita Santosh Shinde",
     "User Email": "smitashinde09.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d55a47a2-20dd-46fe-a5f8-12c575976ae9",
@@ -150,9 +100,109 @@
     "Total Completion": "Yes"
   },
   {
+    "User Name": "Apurva Rajesh Ambre",
+    "User Email": "apurvaambre.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/694d751f-f558-4ea6-a816-0ad049fdb383",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Mithil Sunil Bhosale",
+    "User Email": "mithilbhosale10.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/13c6edee-4a0b-4552-ac0b-277a2f99ff9f",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
     "User Name": "Devansh Sumeet Kopra",
     "User Email": "dsk.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/566a5726-6c54-4e57-a50c-cf89d92fe33c",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "JISHANAHMED ABDULRAHIM SHAIKH",
+    "User Email": "jishanahmedshaikh.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/0a7d37e8-fcb0-42f2-a09e-c63b6a7f8d72",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Gourav Goutam Midya",
+    "User Email": "gouravmidya.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/0b061cee-a1b1-4731-b6f6-412282003612",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Unnati Sharadchandra Pohankar",
+    "User Email": "unnatipohankar.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a454b431-5fa9-4417-b254-894249e27a92",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Anurag Sanjay Kawade",
+    "User Email": "anuragkawade.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f9b09f8e-e9e8-41ca-9df1-7e42f5ea85a2",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "GAURI PRAMOD VALANJU",
+    "User Email": "gaurivalanju.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ddc92c52-dc38-49bb-ae74-dc1d77ce5c01",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Anuj Piyush Pokharna",
+    "User Email": "anuj28.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a47c9471-3cb5-4d64-b3f6-484c4a3bdb6d",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Soham Patil",
+    "User Email": "sohampatil.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1e0f92d5-7a78-429d-af63-5d47923ffdbe",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "POOJA PRAKASH MALPEKAR",
+    "User Email": "poojamalpekar.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d264a2c5-2086-46f1-a590-60d050c3ca2c",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 15,
@@ -193,6 +243,26 @@
     "User Name": "Yadnyesh Lanjewar",
     "User Email": "yadnyeshlanjewar.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f810f1e6-cf78-4b64-8c5b-8b5b870690a0",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Raksha Raghuram Poojari",
+    "User Email": "rrpoojari.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/eb2fcb91-7101-41b5-95cb-5ff2d77b9745",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Preksha Vinod Jain",
+    "User Email": "preksha.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e29995ce-5dce-4822-bea9-30e3d4a87f96",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 15,
@@ -253,6 +323,16 @@
     "User Name": "Mohammed Musab Mohammad Asif Shaikh",
     "User Email": "musab.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ced0709e-30d9-4f9e-a06d-c42691c32565",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Om Santosh Bhojane",
+    "User Email": "sponsorme69.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3ba30980-c373-4a46-afbb-5240bc69286a",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 15,
@@ -380,6 +460,16 @@
     "Total Completion": "Yes"
   },
   {
+    "User Name": "SARAKSHI SAGAR MORE",
+    "User Email": "sarakshimore.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3432a1a8-250a-4864-a347-8a16b9153c70",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
     "User Name": "Maulik Naresh Zambad",
     "User Email": "maulikzambad.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6ca3a061-ff72-4f34-b78b-305ab506075c",
@@ -420,9 +510,29 @@
     "Total Completion": "Yes"
   },
   {
+    "User Name": "Dhairya Ritesh Shah",
+    "User Email": "dhairyashah.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/48564207-2664-4212-acbd-4a535a155284",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
     "User Name": "Rupali Pratap Biradar",
     "User Email": "rupalibiradar.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/609792c9-dfee-48e2-bca6-b536c7266aef",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "PRISHA SANTOSH JAIN",
+    "User Email": "prishajain.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e8b8a032-1508-4875-9ef5-0a0a61e074a8",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 15,
@@ -470,9 +580,39 @@
     "Total Completion": "Yes"
   },
   {
+    "User Name": "VEDANT PRAKASH SAWANT",
+    "User Email": "vedantsawant.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/534ca1eb-4371-4a6a-aca1-9ee137d88926",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
     "User Name": "ASHISH SHIVAJIRAO BANSODE",
     "User Email": "ashishrsb.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/aa402140-96b2-442c-817b-76dcf51c0b42",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Vedant Jagannath Shinde",
+    "User Email": "vedant.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/85e5fb0a-4221-4536-a0e9-af9b5b29e23b",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 15,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "Yes"
+  },
+  {
+    "User Name": "Vaibhavi Jaya Naik",
+    "User Email": "vaibhavi.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/7237d31f-e9fa-437d-8fcf-ef556a61ed9c",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 15,
@@ -500,9 +640,9 @@
     "Total Completion": "Yes"
   },
   {
-    "User Name": "Anurag Sanjay Kawade",
-    "User Email": "anuragkawade.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f9b09f8e-e9e8-41ca-9df1-7e42f5ea85a2",
+    "User Name": "Atharva Ganesh Gourshete",
+    "User Email": "atharvagourshete.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/48350c7e-158f-419b-818e-64014cdd682d",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 15,
@@ -510,9 +650,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "SARAKSHI SAGAR MORE",
-    "User Email": "sarakshimore.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3432a1a8-250a-4864-a347-8a16b9153c70",
+    "User Name": "SHRAVANI PARAG SAWANT",
+    "User Email": "shravanisawant.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/67191d58-e7c2-472f-9128-52be5a8e5d95",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 15,
@@ -520,29 +660,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "VEDANT PRAKASH SAWANT",
-    "User Email": "vedantsawant.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/534ca1eb-4371-4a6a-aca1-9ee137d88926",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 15,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Vedant Jagannath Shinde",
-    "User Email": "vedant.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/85e5fb0a-4221-4536-a0e9-af9b5b29e23b",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 15,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Amit Keshav Rajegore",
-    "User Email": "amitr.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b5dccd19-17e0-41b6-819b-2eb17e4ca836",
+    "User Name": "JATIN JITENDRA BOPALKAR",
+    "User Email": "jatinbop.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/09fe5997-1336-49fc-83fc-dd96fec3f66f",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 14,
@@ -550,9 +670,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "GAURI PRAMOD VALANJU",
-    "User Email": "gaurivalanju.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ddc92c52-dc38-49bb-ae74-dc1d77ce5c01",
+    "User Name": "Ali Altaf Shaikh",
+    "User Email": "alishaikhh.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2ccfed79-1aa0-459b-9903-7dc5754c19f8",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 14,
@@ -560,19 +680,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Raksha Raghuram Poojari",
-    "User Email": "rrpoojari.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/eb2fcb91-7101-41b5-95cb-5ff2d77b9745",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 14,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Dhairya Ritesh Shah",
-    "User Email": "dhairyashah.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/48564207-2664-4212-acbd-4a535a155284",
+    "User Name": "Soham Janjalkar",
+    "User Email": "sohamjanjalkar.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/430c2a50-2812-4b9e-bea4-f9181c1e8d28",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 14,
@@ -590,9 +700,19 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Atharva Ganesh Gourshete",
-    "User Email": "atharvagourshete.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/48350c7e-158f-419b-818e-64014cdd682d",
+    "User Name": "Kavish Rakeshkumar Jain",
+    "User Email": "kavish.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/17c3863b-1234-4871-9395-0515643683cc",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 14,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "No"
+  },
+  {
+    "User Name": "Kunal Singh Thakur",
+    "User Email": "kunalthakur.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f34df9ed-61a2-4af4-aece-dfa20c49c6f4",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 14,
@@ -610,16 +730,6 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Ali Altaf Shaikh",
-    "User Email": "alishaikhh.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2ccfed79-1aa0-459b-9903-7dc5754c19f8",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 14,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
     "User Name": "Sampada Ashok Kale",
     "User Email": "sampadakale.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/48d07271-5485-4508-82e6-080ea10d37ad",
@@ -630,9 +740,19 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "JATIN JITENDRA BOPALKAR",
-    "User Email": "jatinbop.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/09fe5997-1336-49fc-83fc-dd96fec3f66f",
+    "User Name": "viral vipul shah",
+    "User Email": "viralshah.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f7b67587-6d3e-42c4-bafd-47e71eeee703",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 14,
+    "No. of Arcade Games Completed": 0,
+    "Total Completion": "No"
+  },
+  {
+    "User Name": "Shravani Balkrishna Bhilare",
+    "User Email": "shravanibhilare.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8d8f6d21-47b1-46f5-a3ac-3a91e9f2c36e",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 13,
@@ -640,9 +760,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Om Santosh Bhojane",
-    "User Email": "sponsorme69.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3ba30980-c373-4a46-afbb-5240bc69286a",
+    "User Name": "Dhruv Ravindra Bandikatte",
+    "User Email": "drb.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/7d8d40db-12fa-493e-b4b9-a591b42d7ea5",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 13,
@@ -670,23 +790,13 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Apurva Rajesh Ambre",
-    "User Email": "apurvaambre.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/694d751f-f558-4ea6-a816-0ad049fdb383",
+    "User Name": "Sahil Dattaram Govardhane",
+    "User Email": "sahilgovardhane.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/4ee3edee-2f50-4057-b0c8-e91f7b51e344",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Mithil Sunil Bhosale",
-    "User Email": "mithilbhosale10.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/13c6edee-4a0b-4552-ac0b-277a2f99ff9f",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
-    "No. of Arcade Games Completed": 1,
+    "No. of Skill Badges Completed": 13,
+    "No. of Arcade Games Completed": 0,
     "Total Completion": "No"
   },
   {
@@ -700,79 +810,19 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Shravani Balkrishna Bhilare",
-    "User Email": "shravanibhilare.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8d8f6d21-47b1-46f5-a3ac-3a91e9f2c36e",
+    "User Name": "PALAK ANIL KUMAR UPADHYAYA",
+    "User Email": "palakupadhyaya.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/51fce3b9-2bf9-443d-bdb8-8c32da2b4864",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
+    "No. of Skill Badges Completed": 11,
     "No. of Arcade Games Completed": 1,
     "Total Completion": "No"
   },
   {
-    "User Name": "Soham Janjalkar",
-    "User Email": "sohamjanjalkar.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/430c2a50-2812-4b9e-bea4-f9181c1e8d28",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Dhruv Ravindra Bandikatte",
-    "User Email": "drb.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/7d8d40db-12fa-493e-b4b9-a591b42d7ea5",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "PRISHA SANTOSH JAIN",
-    "User Email": "prishajain.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e8b8a032-1508-4875-9ef5-0a0a61e074a8",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Kavish Rakeshkumar Jain",
-    "User Email": "kavish.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/17c3863b-1234-4871-9395-0515643683cc",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "SHRAVANI PARAG SAWANT",
-    "User Email": "shravanisawant.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/67191d58-e7c2-472f-9128-52be5a8e5d95",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Sahil Dattaram Govardhane",
-    "User Email": "sahilgovardhane.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/4ee3edee-2f50-4057-b0c8-e91f7b51e344",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 12,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Vaibhavi Jaya Naik",
-    "User Email": "vaibhavi.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/7237d31f-e9fa-437d-8fcf-ef556a61ed9c",
+    "User Name": "ARYAN HEMANT DHENAK",
+    "User Email": "aryandhenak22.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f747950b-4550-4301-818a-9866563f630d",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 11,
@@ -790,9 +840,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Kunal Singh Thakur",
-    "User Email": "kunalthakur.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f34df9ed-61a2-4af4-aece-dfa20c49c6f4",
+    "User Name": "Abhishek Yogesh Sali",
+    "User Email": "abhisheksali.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6155fed5-9a73-47e1-9a49-4d8a59118feb",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 11,
@@ -800,9 +850,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "viral vipul shah",
-    "User Email": "viralshah.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f7b67587-6d3e-42c4-bafd-47e71eeee703",
+    "User Name": "Ojas Devdutt Walke",
+    "User Email": "ojaswalke.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/790b89c7-7b98-4706-8896-c4bb66022cc5",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 11,
@@ -817,56 +867,6 @@
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 10,
     "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Preksha Vinod Jain",
-    "User Email": "preksha.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e29995ce-5dce-4822-bea9-30e3d4a87f96",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 10,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "ARYAN HEMANT DHENAK",
-    "User Email": "aryandhenak22.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f747950b-4550-4301-818a-9866563f630d",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 10,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Abhishek Yogesh Sali",
-    "User Email": "abhisheksali.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6155fed5-9a73-47e1-9a49-4d8a59118feb",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 10,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "PALAK ANIL KUMAR UPADHYAYA",
-    "User Email": "palakupadhyaya.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/51fce3b9-2bf9-443d-bdb8-8c32da2b4864",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 10,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Ojas Devdutt Walke",
-    "User Email": "ojaswalke.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/790b89c7-7b98-4706-8896-c4bb66022cc5",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 9,
-    "No. of Arcade Games Completed": 0,
     "Total Completion": "No"
   },
   {
@@ -885,8 +885,28 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bdeb38b2-ab31-4a21-ac15-775ab2ed4bab",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 8,
+    "No. of Arcade Games Completed": 1,
+    "Total Completion": "No"
+  },
+  {
+    "User Name": "RITESH AJAYKUMAR PANDEY",
+    "User Email": "riteshpandey.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b7e5ad11-55b3-43d2-82dd-533a4767312d",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 7,
     "No. of Arcade Games Completed": 1,
+    "Total Completion": "No"
+  },
+  {
+    "User Name": "Saanj Shetty",
+    "User Email": "saanjshetty.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/dc03b130-4595-43f5-a8a7-2bf0cbdad1f3",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 7,
+    "No. of Arcade Games Completed": 0,
     "Total Completion": "No"
   },
   {
@@ -910,6 +930,16 @@
     "Total Completion": "No"
   },
   {
+    "User Name": "Tejas Sunil Joshi",
+    "User Email": "tejasjoshi.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f5c893d2-df53-45bb-96f1-336b6643f068",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 7,
+    "No. of Arcade Games Completed": 0,
+    "Total Completion": "No"
+  },
+  {
     "User Name": "Chetan Ramesh Shende",
     "User Email": "chetanshende.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3c08c392-3bd6-48f4-a9d9-68184b2f3b3b",
@@ -920,9 +950,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Tejas Sunil Joshi",
-    "User Email": "tejasjoshi.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/f5c893d2-df53-45bb-96f1-336b6643f068",
+    "User Name": "Gandhar Balkrishna Marathe",
+    "User Email": "gandharmarathe.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e89ce783-d4c5-41c1-a58b-f47c93453540",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 6,
@@ -940,9 +970,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "RITESH AJAYKUMAR PANDEY",
-    "User Email": "riteshpandey.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b7e5ad11-55b3-43d2-82dd-533a4767312d",
+    "User Name": "Ketkee Laxmikant Bhosale",
+    "User Email": "ketkeebhosale.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/328f73b9-6610-4f99-b46a-99555bb6e952",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 5,
@@ -1030,39 +1060,9 @@
     "Total Completion": "No"
   },
   {
-    "User Name": "Ketkee Laxmikant Bhosale",
-    "User Email": "ketkeebhosale.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/328f73b9-6610-4f99-b46a-99555bb6e952",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 3,
-    "No. of Arcade Games Completed": 1,
-    "Total Completion": "No"
-  },
-  {
     "User Name": "DIPESH SANTOSH SHARMA",
     "User Email": "dipeshsharma.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d1abd2c2-568e-45b4-a063-a91668bdcec3",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 3,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Saanj Shetty",
-    "User Email": "saanjshetty.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/dc03b130-4595-43f5-a8a7-2bf0cbdad1f3",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 3,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Gandhar Balkrishna Marathe",
-    "User Email": "gandharmarathe.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e89ce783-d4c5-41c1-a58b-f47c93453540",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 3,
@@ -1107,6 +1107,16 @@
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 1,
     "No. of Arcade Games Completed": 1,
+    "Total Completion": "No"
+  },
+  {
+    "User Name": "Pranav Pradhuman Jain",
+    "User Email": "pranavjain.genai@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9b474949-679e-4dba-8ea2-2198c150105e",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "No. of Skill Badges Completed": 1,
+    "No. of Arcade Games Completed": 0,
     "Total Completion": "No"
   },
   {
@@ -1173,16 +1183,6 @@
     "User Name": "Chinmayee Kedar Sadalgekar",
     "User Email": "chinmayee.genai@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ed73dd02-00e9-4cd8-bad0-457e1a3248b6",
-    "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "Yes",
-    "No. of Skill Badges Completed": 0,
-    "No. of Arcade Games Completed": 0,
-    "Total Completion": "No"
-  },
-  {
-    "User Name": "Pranav Pradhuman Jain",
-    "User Email": "pranavjain.genai@gmail.com",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9b474949-679e-4dba-8ea2-2198c150105e",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "No. of Skill Badges Completed": 0,
